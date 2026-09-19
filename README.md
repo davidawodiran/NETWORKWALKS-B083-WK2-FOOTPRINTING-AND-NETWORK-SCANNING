@@ -40,6 +40,17 @@ strictly for educational and cybersecurity training purposes.
 
 ---
 
+## ⚖️ Liability Disclaimer
+
+All activities in this repository were performed only on systems and 
+networks where written permission was obtained or that I own myself. 
+All materials are strictly for education and research purposes only. 
+Unauthorised access to computer systems is illegal in most countries 
+and can result in criminal charges, heavy fines, and loss of employment. 
+Every action you take is your own responsibility.
+
+---
+
 ## 🎯 Objectives
 
 - Use multiple Kali Linux tools to perform basic footprinting and 
