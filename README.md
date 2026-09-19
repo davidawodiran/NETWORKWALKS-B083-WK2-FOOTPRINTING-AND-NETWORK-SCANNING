@@ -26,11 +26,11 @@ style=flat-square" />
 ## 📌 Overview
 
 Week 2 of the NetworkWalks Cybersecurity & Ethical Hacking Internship 
-focused on the reconnaissance and information-gathering phase of a 
+focused on the reconnaissance and information gathering phase of a 
 security assessment.
 
-This is one of the most important stages in any security engagement — 
-before you can test a system, you need to understand what's out there. 
+This is one of the most important stages in any security engagement. 
+Before you can test a system, you need to understand what's out there. 
 The five practicals this week covered passive and active reconnaissance 
 techniques, publicly available information gathering, visual link 
 analysis, footprinting, and authorized network scanning.
@@ -56,20 +56,20 @@ strictly for educational and cybersecurity training purposes.
 
 ## 🛠️ Tools Used
 
-| Tool | Purpose |
-|---|---|
-| Kali Linux | Primary operating system for all security testing |
-| WHOIS | Domain registration information gathering |
-| WhatWeb | Web technology identification |
-| Nslookup | DNS query and domain resolution |
-| cURL | HTTP response header retrieval |
-| Wafw00f | Web Application Firewall detection |
-| DNSRecon | DNS enumeration and record gathering |
-| GHDB | Advanced search operator reconnaissance |
-| Maltego | Visual link analysis and entity mapping |
-| TheHarvester | Public information gathering — domains, emails, hosts |
-| Zenmap | Graphical Nmap interface for network discovery |
-| Windows CMD | Local network configuration identification |
+| Tool                | Purpose                                             |
+|---------------------|--------------------------------------------------   |
+| Kali Linux          | Primary operating system for all security testing   |
+| WHOIS               | Domain registration information gathering           |
+| WhatWeb             | Web technology identification                       |
+| Nslookup            | DNS query and domain resolution                     |
+| cURL                |  HTTP response header retrieval                     |
+| Wafw00f             | Web Application Firewall detection                  |
+| DNSRecon            | DNS enumeration and record gathering                |
+| GHDB                | Advanced search operator reconnaissance             |
+| Maltego             | Visual link analysis and entity mapping             |
+| TheHarvester        | Public information gathering domains, emails, hosts |
+| Zenmap              | Graphical Nmap interface for network discovery      |
+| Windows CMD         | Local network configuration identification          |
 
 ---
 
@@ -149,15 +149,15 @@ assessments.
 
 ## ⚠️ Risk Analysis
 
-| # | Finding | Potential Impact | Risk Level |
-|---|---|---|---|
-| 1 | Web technology information exposed | Technology fingerprinting by attackers | Medium |
-| 2 | Server IP address identifiable via DNS | Supports further reconnaissance | Low |
-| 3 | HTTP headers expose technical details | Assists technology enumeration | Low |
-| 4 | WAF technology identifiable | Reveals security architecture | Low |
-| 5 | DNS infrastructure information exposed | Enables broader infrastructure profiling | Medium |
-| 6 | Publicly discoverable information via GHDB/TheHarvester | Assists attacker reconnaissance | Medium |
-| 7 | Multiple live hosts visible on local network | Increases attack surface if unmanaged | Medium |
+| # | Finding                                                 | Potential Impact                          | Risk Level |
+|---|---------------------------------------------------------|-------------------------------------------|------------|
+| 1 | Web technology information exposed                      | Technology fingerprinting by attackers    | Medium     |
+| 2 | Server IP address identifiable via DNS                  | Supports further reconnaissance           | Low        |
+| 3 | HTTP headers expose technical details                   | Assists technology enumeration            | Low        |
+| 4 | WAF technology identifiable                             | Reveals security architecture             | Low        |
+| 5 | DNS infrastructure information exposed                  | Enables broader infrastructure profiling  | Medium     |
+| 6 | Publicly discoverable information via GHDB/TheHarvester | Assists attacker reconnaissance           | Medium     |
+| 7 | Multiple live hosts visible on local network            | Increases attack surface if unmanaged     | Medium     |
 
 ---
 
@@ -210,7 +210,7 @@ cybersecurity training purposes.
 ## 👤 Author
 
 **David Awodiran**
-Cybersecurity Intern — NW-083-JNL
+Cybersecurity Professional
 
 LinkedIn: https://www.linkedin.com/in/davidawodiran/
 
@@ -218,4 +218,4 @@ LinkedIn: https://www.linkedin.com/in/davidawodiran/
 
 ## 📌 Programme Info
 
-Cybersecurity at Networkwalks | Batch B083 | Week 02 | Project 1
+Cybersecurity at Networkwalks | Batch B083 | Week 02
