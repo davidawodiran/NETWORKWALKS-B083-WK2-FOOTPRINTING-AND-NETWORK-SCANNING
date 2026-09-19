@@ -86,7 +86,7 @@ Each tool revealed a different layer of publicly available information —
 demonstrating how combining multiple reconnaissance tools builds a 
 much more complete picture of a target than any single tool alone.
 
-![](W2-PM1.png)
+![](kali-linux-tools-reconnaissance.png)
 
 ---
 
@@ -100,7 +100,7 @@ This exercise highlighted how much sensitive information organizations
 accidentally expose through improperly configured web content — and 
 why monitoring your own digital footprint matters.
 
-![](W2-PM23.png)
+![](ghdb-search-results.png)
 
 ---
 
@@ -113,6 +113,8 @@ structured map of the target's digital relationships.
 The visual approach made it clear how individual data points — which 
 might seem insignificant alone — can combine to reveal a detailed 
 picture of an organization's infrastructure.
+
+![](maltego-link-analysis.png)
 
 ---
 
@@ -127,7 +129,7 @@ accessible before an attacker ever touches a target system — and why
 minimizing unnecessary information exposure is a core security 
 principle.
 
-![](W2-PM45.png)
+![](theharvester-footprinting.png)
 
 ---
 
@@ -144,6 +146,8 @@ documentation.
 This was a practical demonstration of how security professionals 
 map an authorized network environment before conducting deeper 
 assessments.
+
+![](zenmap-network-scanning.png)
 
 ---
 
